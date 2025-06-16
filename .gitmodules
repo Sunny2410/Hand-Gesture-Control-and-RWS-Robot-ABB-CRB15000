@@ -1,0 +1,3 @@
+[submodule "abb_egm_pyclient"]
+	path = abb_egm_pyclient
+	url = https://gitlab.control.lth.se/robotlab/abb_egm_pyclient
